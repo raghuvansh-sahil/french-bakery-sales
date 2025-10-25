@@ -9,7 +9,7 @@ I built this project as part of my journey to **learn and understand time series
 ## 🚀 Steps to Run
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/raghuvansh-sahil/french-bakery-sales
 cd project
 ```
 2. **Install dependencies**

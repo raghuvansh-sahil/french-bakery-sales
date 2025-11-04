@@ -10,7 +10,7 @@ I built this project as part of my journey to **learn and understand time series
 1. **Clone the repository**
 ```bash
 git clone https://github.com/raghuvansh-sahil/french-bakery-sales
-cd project
+cd french-bakery-sales
 ```
 2. **Install dependencies**
 ```bash
